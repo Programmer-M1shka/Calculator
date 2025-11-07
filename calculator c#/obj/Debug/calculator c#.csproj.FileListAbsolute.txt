@@ -1,0 +1,14 @@
+C:\Users\xarit\source\repos\calculator c#\calculator c#\bin\Debug\calculator c#.exe.config
+C:\Users\xarit\source\repos\calculator c#\calculator c#\bin\Debug\calculator c#.exe
+C:\Users\xarit\source\repos\calculator c#\calculator c#\bin\Debug\calculator c#.pdb
+C:\Users\xarit\source\repos\calculator c#\calculator c#\obj\Debug\calculator c#.csproj.AssemblyReference.cache
+C:\Users\xarit\source\repos\calculator c#\calculator c#\obj\Debug\calculator c#.csproj.CoreCompileInputs.cache
+C:\Users\xarit\source\repos\calculator c#\calculator c#\obj\Debug\calculator c#.exe
+C:\Users\xarit\source\repos\calculator c#\calculator c#\obj\Debug\calculator c#.pdb
+C:\Users\Frozena\Desktop\calculator c#\bin\Debug\calculator c#.exe.config
+C:\Users\Frozena\Desktop\calculator c#\bin\Debug\calculator c#.exe
+C:\Users\Frozena\Desktop\calculator c#\bin\Debug\calculator c#.pdb
+C:\Users\Frozena\Desktop\calculator c#\obj\Debug\calculator c#.csproj.AssemblyReference.cache
+C:\Users\Frozena\Desktop\calculator c#\obj\Debug\calculator c#.csproj.CoreCompileInputs.cache
+C:\Users\Frozena\Desktop\calculator c#\obj\Debug\calculator c#.exe
+C:\Users\Frozena\Desktop\calculator c#\obj\Debug\calculator c#.pdb
